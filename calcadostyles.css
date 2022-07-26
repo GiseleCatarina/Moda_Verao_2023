@@ -1,0 +1,96 @@
+#footer_page li:first-child {
+    color: aquamarine;
+}
+
+footer {
+    position: relative;
+    height: 100%;
+    width: auto;
+    bottom: 0;
+    left: 0;
+}
+
+.imagem_pagina_principal2 {
+    margin: auto;
+}
+
+#frontimg {
+    position: relative;
+    clear: both;
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+#images_sapatos1 {
+    width: 25%;
+    height: auto;
+    display: inline;
+}
+
+#sapato1 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#sapato2 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#sapato3 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#images_sapatos2 {
+    width: 25%;
+    height: auto;
+    display: inline;
+}
+
+#sapato7 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+}
+
+#sapato8 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#sapato9 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+}
+
+#images_sapatos3 {
+    width: 25%;
+    height: auto;
+    display: inline;
+}
+
+#sapato12 {
+    float: center;
+    left: 0;
+    margin-top: 5px;
+}
+
+.final_page h3, li {
+    padding: 0.5rem;
+}
