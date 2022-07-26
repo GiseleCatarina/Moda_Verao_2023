@@ -60,7 +60,7 @@ footer {
 }
 
 #footer_page li {
-    font-family: 'Josef Sans', cursive;
+    font-family: 'Josef Sans', sans-serif;
     font-weight: bold;
     display: block;
     color: white;
@@ -83,7 +83,7 @@ footer {
 
 #informacoes h3 {
     margin-bottom: -15px;
-    font-family: 'Josefin Sans', cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #informacoes p, li {
@@ -92,7 +92,7 @@ footer {
     margin-right: 1rem;
     display: inline-block;
     font-weight: 300;
-    font-family: 'Josefin Sans', cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #informacoes em {
